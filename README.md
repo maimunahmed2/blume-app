@@ -26,7 +26,7 @@
 
 **Step 2:** Click and run the executable file.
 
-**Step 3:** If you get a warning from Windows, just click on **Run anyway**.
+**Step 3:** If you get a warning from Windows, just click on **More Info** and **Run anyway**.
 
 ![Screenshot_7](https://github.com/maimunahmed2/blume-app/assets/121492681/8ad853fe-523b-4eb6-b894-a7f23c49a20c)
 
