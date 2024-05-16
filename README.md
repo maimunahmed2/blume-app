@@ -37,10 +37,20 @@
 If you encounter an AuthFailure or incorrect date and time error, you can follow these steps to resolve it:
 
 **Step 1:** When this message appears, press **'y'** and hit **enter**.
-**Step 2:** Select timezone as **Kolkata**.
-**Step 3:** Click on **Synchronize time**.
+
+![Screenshot_9](https://github.com/maimunahmed2/blume-app/assets/121492681/80a6ba62-0c94-4b63-a9b0-6a1a03ddb525)
+
+**Step 2:** Select the correct timezone.
+
+![Screenshot_11](https://github.com/maimunahmed2/blume-app/assets/121492681/0ff57544-f597-481d-83d5-355c572d0323)
+
+**Step 3:** Click on **set time automatically, set timezone automatically and Synchronize time**.
+
+![Screenshot_12](https://github.com/maimunahmed2/blume-app/assets/121492681/486f3782-6726-4451-84d5-9feb71cc5445)
+
 **Step 4:** Launch the blume.exe again, and this time it should work.
-**Step 5:** In rare cases, if it still doesn't work, try launching it again.
+
+**Step 5 (Optional):** In rare cases, if it still doesn't work, try launching it again.
 
 <a name="download-block-fix"></a>
 ## Fix Download Blocked
