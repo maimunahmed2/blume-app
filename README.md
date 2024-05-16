@@ -32,8 +32,8 @@
 
 **Step 5:** You're all set now! Your blumepipe will start automatically.
 
-## Fix to Datetime or AuthFailure Error
 <a name="datetime-fix"></a>
+## Fix to Datetime or AuthFailure Error
 If you encounter an AuthFailure or incorrect date and time error, you can follow these steps to resolve it:
 
 **Step 1:** When this message appears, press **'y'** and hit **enter**.
@@ -42,8 +42,8 @@ If you encounter an AuthFailure or incorrect date and time error, you can follow
 **Step 4:** Launch the blume.exe again, and this time it should work.
 **Step 5:** In rare cases, if it still doesn't work, try launching it again.
 
-## Fix Download Blocked
 <a name="download-block-fix"></a>
+## Fix Download Blocked
 The reason for the download getting blocked is due to windows detecting it as a virus. Follow these steps to resolve it:
 
 **Step 1:** Search for **Windows Security** in the Windows Search and open it.
