@@ -28,6 +28,10 @@
 
 **Step 3:** If you get a warning from Windows, just click on **Run anyway**.
 
+![Screenshot_7](https://github.com/maimunahmed2/blume-app/assets/121492681/8ad853fe-523b-4eb6-b894-a7f23c49a20c)
+
+![Screenshot_8](https://github.com/maimunahmed2/blume-app/assets/121492681/9a004789-349e-43ac-9a73-76893079ff49)
+
 **Step 4:** If you encounter an **AuthFailure** or **Incorrect Date and Time** error, click [here](#datetime-fix) for further instructions.
 
 **Step 5:** You're all set now! Your blumepipe will start automatically.
