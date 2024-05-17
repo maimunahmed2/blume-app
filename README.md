@@ -1,6 +1,6 @@
 ## How to Download and Run
 
-**Step 1:** Download the **executable** file from above as shown in the pictures or directly from <a href="https://s3.ap-south-1.amazonaws.com/app.blume.com/blume.exe">this link</a>. If you are looking for **Windows 7**, use <a href="">this link</a>.
+**Step 1:** Download the **executable** file from above as shown in the pictures or directly from <a href="https://s3.ap-south-1.amazonaws.com/app.blume.com/blume.exe">this link</a>(for **Windows 10**. If you are looking for **Windows 7**, use <a href="">this link</a>.
 
 ![20240516_154827 (1)](https://github.com/maimunahmed2/blume-app/assets/121492681/652b0862-18d9-4154-8317-50176195ed7b)
 
